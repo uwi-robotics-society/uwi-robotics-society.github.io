@@ -1,5 +1,5 @@
 # UWI Robotics Society
-##### Built with jekyll-them-chirpy
+#### Built with jekyll-theme-chirpy
 
 # Chirpy Starter
 
