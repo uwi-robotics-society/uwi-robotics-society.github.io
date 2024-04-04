@@ -1,18 +1,30 @@
 #  The contact options.
 
+- type: links
+  icon: 'fa-solid fa-link'
+  url:  'https://linktr.ee/uwiroboticsociety'
+  noblank: false
+
 - type: github
   icon: "fab fa-github"
+  noblank: false
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: instagram
+  icon: "fab fa-instagram"
+  noblank: false
+  url: "https://www.instagram.com/uwi_roboticsociety"
+
+# - type: twitter
+#   icon: "fa-brands fa-x-twitter"
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+# - type: rss
+#   icon: "fas fa-rss"
+#   noblank: true
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon

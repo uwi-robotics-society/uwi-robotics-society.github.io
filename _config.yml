@@ -9,7 +9,7 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone: 
+timezone: America/Port_of_Spain
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -19,17 +19,21 @@ title: UWI Robotics Society # the main title
 tagline: Robotics Society # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  The UWI Robotics Society website
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://uwi-robotics-society.github.io"
 
+
 github:
   username: uwi-robotics-society # change to your github username
 
-twitter:
-  username: twitter_username # change to your twitter username
+# twitter:
+#   username: twitter_username # change to your twitter username
+
+instagram:
+  username: uwi_roboticsociety # change to your instagram username
 
 social:
   # Change to your full name.
@@ -38,7 +42,7 @@ social:
   email: uwiroboticsociety@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    # - https://twitter.com/username # change to your twitter homepage
     - https://github.com/uwi-robotics-society # change to your github homepage
     # Uncomment below to add more social links
     - https://www.instagram.com/uwi_roboticsociety
@@ -126,7 +130,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: ""
+baseurl: "/uwi-robotics-society.github.io"
 
 # ------------ The following options are not recommended to be modified ------------------
 
