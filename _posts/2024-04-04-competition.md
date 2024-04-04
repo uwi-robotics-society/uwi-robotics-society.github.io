@@ -17,4 +17,4 @@ Competition open to all UWI St. Augustine students.
 📍FST Undercroft                                    
 🎁Prizes will be awarded.
 
-![ROBOTIC RUNWAY RACE](/assets/lib/images/competition_1.jpg)
+![ROBOTIC RUNWAY RACE](https://i.imgur.com/psri77I.jpg)
